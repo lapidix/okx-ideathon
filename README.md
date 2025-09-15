@@ -28,7 +28,7 @@ Okx pay로 결제나 송금을 한다면 송금 1건당 몇 포인트, 상점 �
 
 +부차적으로 마케팅 방안같은것도 제시하면 좋을듯 하다. 기술적인 부분을 떠나서 web3에 맞는 옥외광고 등 아이디어도 내면 어떨까 싶습니다.
 
-### 4. OKX wallet
+### 4. OKX wallet with SSO
 
 현재 okx dex를 사용하기 위해서는 web3 지갑이 꼭필요합니다.
 그러나 web3 전용지갑인 okx wallet이 있지만 일반 웹2 유저들은 관리하기 힘들수 있어서 다른 체인에서 그랬듯 계정추상화를 통해 구글아이디등으로 쉽게 okx wallet을 사용할수 있도록 하면 직간접적으로 dex거래량이 늘어 날 것으로 기대
@@ -43,6 +43,6 @@ okx wallet이 UI/UX 모두 괜찮아서 사람들이 많이 사용하고 있고,
 
 - https://smsmagazine.com.au/news/2025/09/15/okx-launches-smsf-crypto-platform/
 
-### 6. okx wallet 에 크립토 카드 트래킹 기능 추가
+### 6. okx wallet 에 크립토 카드 추가 기능
 
 삼성페이처럼 카드들 추가할 수 있듯 okx wallet에 다른 크립토 카드 추가할 수 있는 기능
